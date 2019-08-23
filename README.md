@@ -1,7 +1,7 @@
 # calc
 ```
-Vue.js를 활용한 맥OS 계산기 app
-http://www.jeongmupark.com/calc
+Vue.js를 활용한 mac OS 계산기 app
+http://www.jeongmupark.com/vuejs/calc
 ```
 ## Project setup
 ```
